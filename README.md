@@ -1,5 +1,6 @@
 # hello-world
 This is a Sorting Visualizer!
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 # Pre_requisites
   * React
   * JavaScript
