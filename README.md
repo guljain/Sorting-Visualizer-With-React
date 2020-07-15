@@ -2,6 +2,8 @@
 This is a Sorting Visualizer!
 ![alt text](https://github.com/guljain/hello-world/blob/master/Screenshot%202020-07-15%20at%204.59.50%20PM.png)
 
+
+![alt text](https://github.com/guljain/hello-world/blob/master/Screenshot%202020-07-15%20at%205.00.37%20PM.png)
 # Pre_requisites
   * React
   * JavaScript
