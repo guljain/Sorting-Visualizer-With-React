@@ -1,3 +1,2 @@
 # hello-world
-description
-here is me 
+This is a Sorting Visualizer!
