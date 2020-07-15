@@ -1,6 +1,7 @@
 # hello-world
 This is a Sorting Visualizer!
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/guljain/hello-world/blob/master/Screenshot%202020-07-15%20at%204.59.50%20PM.png)
+
 # Pre_requisites
   * React
   * JavaScript
