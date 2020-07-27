@@ -37,4 +37,5 @@ For reference use:
  2. mmtuts is a great website and helped me throughout this journy - https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw 
  3. FreeCodeCamp helped me nurture my JavaScript and React Skills, both through videos and exercises - https://www.freecodecamp.org & https://www.youtube.com/watch?v=DLX62G4lc44.
  
- 
+ # Link to README file 
+ https://guljain.github.io/Sorting-Visualizer-With-React/
