@@ -2,10 +2,15 @@
 This is a Sorting Visualizer!
 Some of the outputs are :
 
-![alt text](https://github.com/guljain/hello-world/blob/master/Screenshot%202020-07-15%20at%204.59.50%20PM.png)
+![alt text](https://github.com/guljain/SortingVisualizer/blob/master/Sorting%20Visualizer%20Project/Images/Result%201.png)
 
 
-![alt text](https://github.com/guljain/hello-world/blob/master/Screenshot%202020-07-15%20at%205.00.37%20PM.png)
+![alt text](https://github.com/guljain/SortingVisualizer/blob/master/Sorting%20Visualizer%20Project/Images/Result%202.png)
+
+
+![alt text](https://github.com/guljain/SortingVisualizer/blob/master/Sorting%20Visualizer%20Project/Images/Result%203.png)
+
+
 # Skills Gained
   * React
   * JavaScript
